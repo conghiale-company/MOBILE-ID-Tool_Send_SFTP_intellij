@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tool_Send_SFTP">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tool_Send_SFTP</output-path>
+    <root id="archive" name="Tool_Send_SFTP.jar">
+      <element id="module-output" name="Tool_Send_SFTP_Intellij" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/javax.mail-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DTIS-V2-Utility/Sample_AWS_intelij/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/activation-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
